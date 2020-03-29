@@ -13,5 +13,6 @@ Receiving GPS Data via NEO-6M GPS Module, transmitting Data on 868MHz to LoRa Da
 - [NEO-6M GPS Module and Antenna](https://www.amazon.de/AZDelivery-NEO-6M-GPS-baugleich-u-blox/dp/B01N38EMBF) using the [TinyGPS++ library](http://arduiniana.org/libraries/tinygpsplus/)
 - 2x LiPo Battery 2000mAh (3.7 V, 2 mm JST)
 - 4 LEDs + 2 Flip switches + CR1220 Battery + Micro SD-Card
-<img src="https://github.com/wdpckr92/LoRa/blob/master/pictures/lora_gps1.jpg" width="450" height="500" title="Github Logo"><img src="https://github.com/wdpckr92/LoRa/blob/master/pictures/lora_gps2.jpg" width="450" height="500" title="Github Logo"><img src="https://github.com/wdpckr92/LoRa/blob/master/pictures/lora_gps3.jpg" width="450" height="500" title="Github Logo">
+
+<img src="https://github.com/wdpckr92/LoRa/blob/master/pictures/lora_gps1.jpg" width="350" height="400" title="Github Logo"><img src="https://github.com/wdpckr92/LoRa/blob/master/pictures/lora_gps2.jpg" width="350" height="400" title="Github Logo"><img src="https://github.com/wdpckr92/LoRa/blob/master/pictures/lora_gps3.jpg" width="350" height="400" title="Github Logo">
 
