@@ -6,7 +6,7 @@ Taking temperature measurements with digital temperature sensors (3x DS18B20) an
 - 2x 868MHz Antennas,U.Fl Connectors, SMA Adapter
 
 # LoRa GPS-Transmitter and Datalogger
-Receiving GPS Data via NEO-6M GPS Module, transmitting Data on 868MHz to LoRa Datalogger, saving Data and timestamp on SD-Card
+Receiving GPS Data via NEO-6M GPS Module, transmitting Data on 868MHz to LoRa Datalogger, saving Data and Timestamp on SD-Card
 
 
 
