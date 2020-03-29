@@ -12,5 +12,5 @@ Receiving GPS Data via NEO-6M GPS Module, transmitting Data on 868MHz to LoRa Da
 - [Adafruit Adalogger FeatherWing - RTC + SD](https://www.adafruit.com/product/2922)+Battery+SD-Card
 - [NEO-6M GPS Module and Antenna](https://www.amazon.de/AZDelivery-NEO-6M-GPS-baugleich-u-blox/dp/B01N38EMBF) using the [TinyGPS++ library](http://arduiniana.org/libraries/tinygpsplus/)
 - 2x LiPo Battery 2000mAh (3.7 V, 2 mm JST)
-- 4 LEDs + 2 Flip switches 
+- 4 LEDs + 2 Flip switches + CR1220 Battery + Micro SD-Card
 
