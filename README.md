@@ -7,15 +7,10 @@ Taking temperature measurements with digital temperature sensors (3x DS18B20) an
 
 # LoRa GPS-Transmitter and Datalogger
 Receiving GPS Data via NEO-6M GPS Module, transmitting Data on 868MHz to LoRa Datalogger, saving Data and Timestamp on SD-Card
-
-
-
-
-
-
-
-
-
-- Lora Mesh Network 
-- Lora GPS Tracker and Datalogger
+- 2x [Adafruit Feather 32u4 RFM95 LoRa Radio 868MHz](https://www.adafruit.com/product/3078)
+- 2x 868MHz Antennas,U.Fl Connectors, SMA Adapter
+- [Adafruit Adalogger FeatherWing - RTC + SD](https://www.adafruit.com/product/2922)+Battery+SD-Card
+- [NEO-6M GPS Module and Antenna](https://www.amazon.de/AZDelivery-NEO-6M-GPS-baugleich-u-blox/dp/B01N38EMBF) using the [TinyGPS++ library](http://arduiniana.org/libraries/tinygpsplus/)
+- 2x LiPo Battery 2000mAh (3.7 V, 2 mm JST)
+- 4 LEDs + 2 Flip switches 
 
