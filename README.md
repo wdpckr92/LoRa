@@ -18,3 +18,4 @@ Receiving GPS Data via NEO-6M GPS Module, transmitting Data on 868MHz to LoRa Da
 <img src="https://github.com/wdpckr92/LoRa/blob/master/pictures/lora_gps3.jpg" width="350" height="400" title="Github Logo">
 
 # LoRa Mesh
+# LoRa Gateway + MQTT subscription etc.
