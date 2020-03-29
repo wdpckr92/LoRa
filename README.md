@@ -1,4 +1,4 @@
-**all LoRa Projects in this repository use the [RadioHead Packet Radio library](https://www.airspayce.com/mikem/arduino/RadioHead/index.html)**
+**All LoRa Projects in this repository use the [RadioHead Packet Radio library](https://www.airspayce.com/mikem/arduino/RadioHead/index.html)**
 
 # LoRa Transmitter and Receiver 
 Taking temperature measurements with digital temperature sensors (3x DS18B20) and sending them on 868MHz via LoRa Client to LoRa Server
