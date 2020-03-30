@@ -5,7 +5,7 @@ Taking temperature measurements with digital temperature sensors (3x DS18B20) an
 - 2x [Adafruit Feather 32u4 RFM95 LoRa Radio 868MHz](https://www.adafruit.com/product/3078)
 - 2x 868MHz Antennas,U.Fl Connectors, SMA Adapter
 
-# LoRa GPS-Transmitter and Datalogger
+# LoRa GPS and Datalogger
 Receiving GPS Data via NEO-6M GPS Module, transmitting Data on 868MHz to LoRa Datalogger, saving Data and Timestamp on SD-Card
 - 2x [Adafruit Feather 32u4 RFM95 LoRa Radio 868MHz](https://www.adafruit.com/product/3078)
 - 2x 868MHz Antennas,U.Fl Connectors, SMA Adapter
